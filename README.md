@@ -17,7 +17,7 @@ secend , where links are scraped from various websites.
 currently it scrape filemoon,dood,netu,mixdrop,streamwish links.
 all scraped links will be added to your acc.
 it also scrape multiple subtitles but only for filemoon.
-and the main thing about this script is: you dont need to manualy add Movies7episodes. when you open movie or episode page it check if it exist
+and the main thing about this script is: you dont need to manualy add Movies/episodes. when you open movie or episode page it check if it exist
 and if it not exist, it will be created all with links.
 ----------------
 ABOUT THE PRICE
