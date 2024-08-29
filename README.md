@@ -1,5 +1,7 @@
 # Simple Embed Iframe Manager
-# start your own autoembed service like vidsrc,2embed,streamembed...etc
+Please note this script will not remove ads from vidhide,streamwish,mixdrop,dood,netu<br />
+it will jsut scarpe various website take links and clone video.<br />
+and it only scrape movies/episodes in english.<br />
 Simple Embed Iframe Manager is a Script written in php.<br />
 you can add movies & tv episodes<br />
 you just put imdb id and poster, title, description is generated automatically.<br />
@@ -14,9 +16,8 @@ https://imdoomed.xyz/embed/embed_tv.php?tmdb=1396&season=1&episode=4<br />
 
 Script came in two versions. first is just embed manager where you add links on your own.<br />
 secend , where links are scraped from various websites.<br />
-currently it scrape filemoon,dood,netu,mixdrop,streamwish links.<br />
+currently it scrape vidhide,dood,netu,mixdrop,streamwish links.<br />
 all scraped links will be added to your acc.<br />
-it also scrape multiple subtitles but only for filemoon.<br />
 and the main thing about this script is: you dont need to manualy add Movies/episodes. when you open movie or episode page it check if it exist<br />
 and if it not exist, it will be created all with links.<br />
 ----------------<br />
